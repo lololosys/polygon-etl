@@ -4,3 +4,4 @@
 
 discord-webhook==0.14.0
 polygon-etl==0.1.9
+eth-abi>=4.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
