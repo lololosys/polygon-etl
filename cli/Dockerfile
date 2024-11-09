@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.13.0rc2
 MAINTAINER Evgeny Medvedev <evge.medvedev@gmail.com>
 ENV PROJECT_DIR=polygon-etl
 
