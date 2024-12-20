@@ -2,7 +2,7 @@
 # This makes cli folder is accessible for copy and install
 # docker build -f . -t polygon-etl-airflow-tests ..
 
-FROM python:3.6.10
+FROM python:3.14.0a3
 
 WORKDIR /airflow
 
